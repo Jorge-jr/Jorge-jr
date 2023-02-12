@@ -4,7 +4,7 @@
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jorge-jr&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-📫 How to reach me: https://www.linkedin.com/in/jorge-s-ribeiro-jr-75140221/
+LinkedIn: https://www.linkedin.com/in/jorge-s-ribeiro-jr-75140221/
 
 
 
