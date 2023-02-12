@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jorge-jr&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 🌱 I’m currently learning Elixir! [image](https://user-images.githubusercontent.com/23095298/218330370-0f1e5dc3-7315-4c46-a376-a0a8c1a27e0d.png)
