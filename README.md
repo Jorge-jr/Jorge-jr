@@ -1,13 +1,6 @@
 
 
 
-
-
-
-
-### Hi there 👋
-
-
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jorge-jr&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
