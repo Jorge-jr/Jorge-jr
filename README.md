@@ -1,7 +1,7 @@
 
 
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jorge-jr&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jorge-jr&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 
 LinkedIn: https://www.linkedin.com/in/jorge-s-ribeiro-jr-75140221/
